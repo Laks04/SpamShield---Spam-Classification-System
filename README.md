@@ -2,7 +2,6 @@ Readme spamshield · MD
 # 🛡️ SpamShield — SMS Spam Classification System
  
 A production-grade SMS spam detector powered by a soft-voting ensemble of machine learning classifiers, served through a sleek Flask web application with real-time analysis and confidence gauges.
-[![Live Site](https://img.shields.io/badge/Live%20Site-cccccc?style=for-the-badge)](https://5000-m-s-kkb-usc1a2-2mebhnn4r1ach-a.us-central1-2.prod.colab.dev/)
 
 <img width="1185" height="852" alt="image" src="https://github.com/user-attachments/assets/42a8389e-ea58-48e5-a17f-aabef586331b" />
 
